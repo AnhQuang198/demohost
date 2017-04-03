@@ -1,2 +1,0 @@
-mongoengine
-flask_login
