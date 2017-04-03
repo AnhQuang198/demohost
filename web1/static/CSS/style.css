@@ -1,0 +1,51 @@
+div{
+    color: red;
+    text-decoration: underline;
+    background-color: dimgrey;
+    font-size: 26px;
+    font-family: "Comic Sans MS";
+    font-weight: lighter;
+    width: 200px;
+}
+.red{
+    color: red;
+}
+
+.blue{
+    color: blue;
+}
+
+.yellow_background{
+    background: yellow;
+}
+
+.title:hover {
+    text-decoration: underline;
+}
+
+/*a:active{*/
+    /*font-size: 200%;*/
+/*}*/
+
+a {
+    color: deepskyblue;
+}
+
+a:hover,
+a:active{
+    color: red;
+    font-size: 20px;
+    text-decoration: none;
+}
+a{
+    transition: 0.5s;
+}
+
+h1{
+    display:inline-block;
+    background: url('http://2.bp.blogspot.com/-7sXNXvFqGKg/VSQ1c_YhI7I/AAAAAAAAFDs/SwruSE_1nu4/s888/xemvtvnet08042015.jpg');
+    width: 636px;
+    height: 379px;
+    padding: 2px;
+    margin: 50px;
+}
